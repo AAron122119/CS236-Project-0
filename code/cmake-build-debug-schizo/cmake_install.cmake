@@ -1,4 +1,4 @@
-# Install script for directory: /users/guest/a/amc698/CS236/Lab0/project-0-main
+# Install script for directory: /users/guest/a/amc698/CS236/Lab0/code
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
