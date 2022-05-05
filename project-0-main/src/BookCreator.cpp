@@ -2,8 +2,8 @@
 // Created by BYU CS 236 on 3/22/2021.
 //
 
-#include "BookCreator.h"
-#include "Info.h"
+#include "include/BookCreator.h"
+#include "include/Info.h"
 
 BookCreator::BookCreator(std::ifstream& input) {
     std::string line;

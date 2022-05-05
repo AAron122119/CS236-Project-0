@@ -2,7 +2,7 @@
 // Created by BYU CS 236 on 3/22/2021.
 //
 
-#include "Info.h"
+#include "include/Info.h"
 
 Info::Info(std::string type, std::string info) {
     this->type = stringToEnum(type);
